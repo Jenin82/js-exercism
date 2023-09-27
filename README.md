@@ -3,7 +3,7 @@
 23 Sep 2023
 Solved 3 Exercise
 
-1) High Score Board (in-progress)
+1) High Score Board
 2) 
 3) 
 
