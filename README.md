@@ -2,7 +2,7 @@
 
 24 Sep 2023
 Solved 3 Exercise
-1) Lasagna Master (wip)
+1) Lasagna Master 
 2) 
 3) 
 
