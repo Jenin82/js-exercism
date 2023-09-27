@@ -4,7 +4,7 @@
 Solved 3 Exercise
 
 1) High Score Board
-2) 
+2) Amusement Park
 3) 
 
 
