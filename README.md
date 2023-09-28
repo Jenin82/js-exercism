@@ -1,5 +1,11 @@
 # js-exercism
 
+25 Sep 2023
+Solved 3 Exercise
+1) Fruit Picker
+2) 
+3) 
+
 24 Sep 2023
 Solved 3 Exercise
 1) Lasagna Master 
