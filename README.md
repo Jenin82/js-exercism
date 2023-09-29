@@ -3,7 +3,7 @@
 25 Sep 2023
 Solved 3 Exercise
 1) Fruit Picker
-2) 
+2) Elyses Destructured Enchantments
 3) 
 
 24 Sep 2023
