@@ -4,7 +4,7 @@
 Solved 3 Exercise
 1) Fruit Picker
 2) Elyses Destructured Enchantments
-3) 
+3) Elyses Analytic Enchantments
 
 24 Sep 2023
 Solved 3 Exercise
