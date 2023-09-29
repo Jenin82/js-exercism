@@ -1,10 +1,16 @@
 # js-exercism
 
+27 Sep 2023
+Solved 3 Exercise
+1)  
+2) 
+3) 
+
 26 Sep 2023
 Solved 3 Exercise
 1) Windowing System
 2) Factory Sensors
-3)
+3) Elyses Transformative Enchantments
 
 25 Sep 2023
 Solved 3 Exercise
