@@ -3,7 +3,7 @@
 26 Sep 2023
 Solved 3 Exercise
 1) Windowing System
-2) 
+2) Factory Sensors
 3)
 
 25 Sep 2023
