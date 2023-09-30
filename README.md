@@ -4,7 +4,7 @@
 Solved 3 Exercise
 1) Regular Chatbot
 2) Elyses Looping Enchantments
-3) 
+3) Ozan's Playlist
 
 26 Sep 2023
 Solved 3 Exercise
