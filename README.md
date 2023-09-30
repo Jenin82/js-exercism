@@ -2,7 +2,7 @@
 
 27 Sep 2023
 Solved 3 Exercise
-1)  
+1) Regular Chatbot
 2) 
 3) 
 
