@@ -1,5 +1,11 @@
 # js-exercism
 
+28 Sep 2023
+Solved 3 Exercise
+1) Translation Service
+2) 
+3) 
+
 27 Sep 2023
 Solved 3 Exercise
 1) Regular Chatbot
